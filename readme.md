@@ -31,3 +31,5 @@ You can find your version at **yourGitHubName.github.io/theReposName** (in this 
 ## But How?
 
 A Google Spreadsheet holds all the data and it is connected to this website using the goodies in [sheetsee.js](http://www.github.com/jlord/sheetsee.js). Everytime you visit the website, you'll have the most up to date data that has been entered into the spreadsheet. 
+
+Edited for Github.io
